@@ -19,7 +19,7 @@ script:
 notifications:
   email: false
 
-sudo: false
+sudo: required
 
 cache:
   directories:
