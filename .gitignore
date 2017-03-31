@@ -18,9 +18,9 @@ gen/
 # Gradle files
 .gradle/
 build/
-gradlew
-gradlew.bat
-gradle/wrapper/gradle-wrapper.properties
+#gradlew
+#gradlew.bat
+#gradle/wrapper/gradle-wrapper.properties
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -153,7 +153,7 @@ crashlytics-build.properties
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.ear
 
